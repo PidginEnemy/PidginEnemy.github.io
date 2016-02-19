@@ -1,1 +1,1 @@
-# Mail application on AngularJS
+# Demo of test mail application on AngularJS
