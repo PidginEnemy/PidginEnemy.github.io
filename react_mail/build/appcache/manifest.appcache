@@ -1,0 +1,12 @@
+CACHE MANIFEST
+#ver:2017-02-21 13:36:23
+#plugin:4.6.1
+
+CACHE:
+/build/img/loader.svg?b1bb92908edee2d675df236dbe24cc53
+/build/img/mail-icon.png?a7d7220c8934b4b39fb8600f7c7fade7
+/build/bundle.js
+/build/style.min.css
+
+NETWORK:
+*
